@@ -10,7 +10,7 @@
 
 SCR 시스템에서 Urea 환원제의 정확한 투여를 하므로 효과적인 NOx 저감을 달성하고 암모니아 슬립을 방지하기 위해, NOx 농도를 측정하는 NOx 센서를 장착했습니다.
 
-![최대현,_"친환경_디젤엔진을_위한_Urea-SCR_시스템용_NOx_센서기반_칼만_필터_설계_및_제어_기법_연구",_2015(6)](./images/자동차용NOx센서시스템_Q1_1_1.PNG)
+![](./images/자동차용NOx센서시스템_Q1_1_1.PNG)
  
 ## 참고문서
 - KISTI 유망아이템 지식 베이스: http://boss.kisti.re.kr/boss/item/item_print.jsp?unit_cd=PI000015
